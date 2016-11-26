@@ -1,0 +1,6 @@
+<!ELEMENT Applications (Application+)>
+<!ELEMENT Application (Interval+)>
+<!ELEMENT Interval (Start, End)>
+<!ELEMENT Start (#PCDATA)>
+<!ELEMENT End (#PCDATA)>
+<!ATTLIST Application name CDATA #REQUIRED>

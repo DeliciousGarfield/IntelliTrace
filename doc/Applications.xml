@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Applications SYSTEM "Applications.dtd">
+<Applications>
+  <Application name="Firefox">
+    <Interval>
+      <Start>2016-08-08 08:30</Start>
+      <End>2016-08-08 09:00</End>
+    </Interval>
+    <Interval>
+      <Start>2016-08-08 09:15</Start>
+      <End>2016-08-08 09:45</End>
+    </Interval>
+  </Application>
+  <Application name="Explorer">
+    <Interval>
+      <Start>2016-08-08 08:30</Start>
+      <End>2016-08-08 10:00</End>
+    </Interval>
+  </Application>
+</Applications>
